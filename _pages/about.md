@@ -19,7 +19,7 @@ Welcome everyone! I am data scientist working for <a href="https://www.ag.be/">A
 
 I was trained as engineer at <a href="https://eng.kuleuven.be/">KULeuven faculty of engineering</a>. I then specialised in  <a href="https://www.kuleuven.be/programmes/master-mathematical-engineering">mathematical engineering</a> and further specialised in <a href="https://www.kuleuven.be/programmes/master-advanced-studies-economics">Advanced Business Studies<a/>.
 
-I started working at AG Insurance as an actuary in the Employee Benefits department. I did everything from tarification of group life and healthcare products, the implementation of international inusrance networks like <a href="https://www.igpinfo.com/"John Hancock/IGP</a> and <a href="https://www.insurope.com">Insurope</a> to the Solvency II liabilities cashflow model programming.
+I started working at AG Insurance as an actuary in the Employee Benefits department. I did everything from tarification of group life and healthcare products, the implementation of international inusrance networks like <a href="https://www.igpinfo.com">John Hancock/IGP</a> and <a href="https://www.insurope.com">Insurope</a> to the Solvency II liabilities cashflow model programming.
 
 Currently I'm working as a data scientist using state-of-the-art machine learning and AI models to improve our modeling and to increase our efficiency.
 
