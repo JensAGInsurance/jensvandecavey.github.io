@@ -115,9 +115,8 @@ analytics:
 author:
   name             : "Jens Vande Cavey"
   avatar           : "/images/selfie.jpg"
-  bio              : "Data scientist working for Ag Insurance in the employee benefits department."
+  bio              : "Data scientist @ Ag Insurance."
   location         : "Leuven, Belgium"
-  email            : jens.vande.cavey@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
